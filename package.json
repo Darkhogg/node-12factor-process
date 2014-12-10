@@ -1,0 +1,9 @@
+{
+  "name": "12factor-process",
+  "version": "0.1.0",
+  "description": "Work with 12 factor app processes",
+  "main": "main.js",
+  "dependencies": {
+    "bluebird": "^2.3.11"
+  }
+}
