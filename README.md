@@ -37,8 +37,8 @@ zeroes.  If a restriction is violated, the worker ID is set to `__error__.0`
 and other values are set accordingly.
 
   [foreman]: http://ddollar.github.io/foreman/ "foreman"
-  [node-foreman]:
-  [heroku]:
+  [node-foreman]: https://github.com/strongloop/node-foreman "node-foreman"
+  [heroku]: https://heroku.com "Heroku Cloud Platform as a Service"
 
 
 Application Crashing
